@@ -1,6 +1,7 @@
 # asamarch-repository
 
 * [asamarch-repository](https://samwhelp.github.io/asamarch-repository/) ([GitHub](https://github.com/samwhelp/asamarch-repository))
+* [asamarch-packaging](https://github.com/samwhelp/asamarch-packaging)
 
 
 ## Use Remote
